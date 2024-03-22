@@ -4,7 +4,7 @@
 
 An employee payroll tracker using JavaScript.
 
-![Screenshot](/assets/EmployeePayrollTracker.png)
+![Screenshot](./assets/images/EmployeePayrollTracker.png)
 
 ## Usage 
 
